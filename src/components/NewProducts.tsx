@@ -5,42 +5,42 @@ import ProductCard from './ProductCard';
 const productsData = [
   
     {
-      img: "img1",
+      img: "/img1.jpg",
       title: 'Product 1',
       description: 'Description for product 1',
       rating: 4.5,
       price: '$10.00',
     },
     {
-      img: "img2",
+      img: "/img2.jpg",
       title: 'Product 2',
       description: 'Description for product 2',
       rating: 4.0,
       price: '$20.00',
     },
     {
-      img: "img3",
+      img: "/img3.jpg",
       title: 'Product 3',
       description: 'Description for product 3',
       rating: 5.0,
       price: '$30.00',
     },
     {
-      img: "img4",
+      img: "/img4.jpg",
       title: 'Product 4',
       description: 'Description for product 4',
       rating: 3.5,
       price: '$40.00',
     },
     {
-      img: "img5",
+      img: "/img5.jpg",
       title: 'Product 5',
       description: 'Description for product 5',
       rating: 4.2,
       price: '$50.00',
     },
     {
-      img: "img6",
+      img: "/img6.jpg",
       title: 'Product 6',
       description: 'Description for product 6',
       rating: 4.8,
