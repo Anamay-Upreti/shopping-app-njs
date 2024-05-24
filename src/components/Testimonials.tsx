@@ -10,7 +10,7 @@ const Testimonials = () => {
                 <div className="test-center flex flex-col items-center gap-1">
                     <Image
 className="rounded-full inline-block"
-src="/user.jpg"
+src="/man.jpg"
 width={80}
 height={80}
 alt="dp"

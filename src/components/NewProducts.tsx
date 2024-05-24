@@ -19,7 +19,7 @@ const productsData = [
       price: '$20.00',
     },
     {
-      img: "/img3.jpg",
+      img: "/img3.png",
       title: 'Product 3',
       description: 'Description for product 3',
       rating: 5.0,
@@ -33,14 +33,14 @@ const productsData = [
       price: '$40.00',
     },
     {
-      img: "/img5.jpg",
+      img: "/img5.png",
       title: 'Product 5',
       description: 'Description for product 5',
       rating: 4.2,
       price: '$50.00',
     },
     {
-      img: "/img6.jpg",
+      img: "/img6.png",
       title: 'Product 6',
       description: 'Description for product 6',
       rating: 4.8,
